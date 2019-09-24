@@ -1,2 +1,2 @@
-# Knapsack-Solution-Generator_Java
-Java - Solves The Knapsack Problem Using Recursive BST searches, Open/Closed Board Linked Lists, and Pruning
+# Knapsack-Solution-Generator-With-Genetic-Algo_Java
+Java - Solves The Knapsack Problem Using Recursive BST searches, Open/Closed Board Linked Lists, and Genetic Algorithm
